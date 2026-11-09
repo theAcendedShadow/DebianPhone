@@ -1,0 +1,19 @@
+{
+    "display":{
+        "screensize":[128, 160],
+        "wallpaper":"Pictures/hollow.png",
+        "appgrid":[3,3],
+        "topbezel":30,
+        "bottombezel":30,
+        "topbezelcontent":["rtc"],
+        "bottombezelcontent":["os"],
+        "font":"Courier",
+        "fsize":20,
+        "ftype":"bold"
+    },
+    "os":{
+        "applibrary":"Apps/",
+        "os":"MioS Alpha 1.0 'Buzzy Bee'",
+        "osshort":"Mios~1.0"
+    }
+}
